@@ -16,8 +16,8 @@ dist_pkgdata_DATA = \
 	timezone.xml \
 	unicable.xml \
 	hd-testcard.mvi \
-	distro-logo.png
-        italysatwizard.xml
+	distro-logo.png \
+        italysatwizard.xml \
         italysat1080p.xml
 
 if HAVE_TEXTLCD
